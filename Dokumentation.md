@@ -57,8 +57,8 @@ Mein Chatbot ist mit HTML, CSS, JavaScript und Python programmiert worden. Ich h
 |4.A|24.1|Mirhan Özden|Nachricht wird an Server geschickt.|180 Minuten|
 |5.A|14.2|Mirhan Özden|Auf gesendete Nachricht wird sinnvoll geantwortet.|225|
 |6.A|14.2|Mirhan Özden|Die Antwort des Bots wird angezeigt.|90|
-|7.A|20.1|Mirhan Özden|Layout ist für verschiedene Geräten anders.|90|
-|8.A|20.1|Mirhan Özden|Fehlerhinweise bei Fehler in der Kommunikation.|90|
+|7.A|21.2|Mirhan Özden|Layout ist für verschiedene Geräten anders.|90|
+|8.A|21.2|Mirhan Özden|Fehlerhinweise bei Fehler in der Kommunikation.|90|
 |9.A|28.1|Mirhan Özden|Vorschläge für Fragen anzeigen lassen|135|
 
 
@@ -77,8 +77,8 @@ Ich habe mich dazu entschieden, eine Website zu machen, wo man einen Chat mit ei
 | 4.A  | 24.1  | Mirhan Özden | 180 Minuten | 200 Minuten |
 | 5.A  | 28.1  | Mirhan Özden | 225 Minuten | 275 Minuten |
 | 6.A  | 14.2  | Mirhan Özden | 90 Minuten | 110 Minuten |
-| 7.A  | 20.1  | Mirhan Özden | 90 Minuten | 110 Minuten |
-| 8.A  | 28.1  | Mirhan Özden | 90 Minuten | 110 Minuten |
+| 7.A  | 21.2  | Mirhan Özden | 90 Minuten | 110 Minuten |
+| 8.A  | 21.2  | Mirhan Özden | 90 Minuten | 110 Minuten |
 | 9.A  | 28.1  | Mirhan Özden | 135 Minuten | 155 Minuten |
 
 
