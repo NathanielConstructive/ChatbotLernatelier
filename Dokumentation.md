@@ -30,31 +30,40 @@ Mein Chatbot ist mit HTML, CSS, JavaScript und Python programmiert worden. Ich h
 |6|Muss|Funktional|Als Benutzer möchte ich, dass die Antwort des Chatbots in der Chatbox angezeigt wird, damit ich die Unterhaltung nachvollziehen kann.	|
 |7|Kann|Qualität|Als Benutzer möchte ich, dass die Website auf verschiedenen Geräten gut aussieht, damit ich sie überall nutzen kann. 	|
 |8|Kann|Qualität|Als Benutzer möchte ich Fehlerhinweise erhalten, wenn die Kommunikation mit dem Chatbot fehlschlägt, damit ich weiss, was schiefgelaufen ist.|
-|9|Kann|Qualität|ALs Benutzer möchte ich Vorschläge kriegen, wenn ich nichts eingebe, damit ich weiss, worauf der Bot antworten kann.|
+|9|Kann|Qualität|Als Benutzer möchte ich Vorschläge kriegen, wenn ich nichts eingebe, damit ich weiss, worauf der Bot antworten kann.|
 
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |  Website wird gestartet            | -        |    Struktur der Website wird angezeigt.               |
+| 2.1  |  Website wurde aufgerufen            | Links klick auf das Eingabefeld und Drücken einer Taste        |  Text im Textfeld                 |
+|3.1|Text wurde in Textfeld eingegeben|Es wird auf "senden" gedrückt|Der Text wird im Chat angezeigt|
+|4.1|Eine Nachricht wurde verfasst und auf "senden" gedrückt.|-|-|
+|5.1|Nachricht wurde gesendet|-|Passende Antwort wurde gesendet.|
+|6.1|Passende Antwort wurde gesendet|-|Die Antwort des Bots wird angezeigt.|
+|7.1|Website wird auf einem anderen Handy aufgerufen|-|Layout der Website ändert sich.|
+|8.1|Etwas falsches wird eingegeben|Auf senden drücken|"Hm, das habe ich jetzt nicht gecheckt. Frag mich gerne was anderes."|
+|9.1|Man hat linksklick auf das Eingabefeld gedrückt.|-|Feld mit verschiedenen Vorschlägen die gefragt werden können.|
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 
 ## 2 Planen
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |       | Mirhan Özden          |  Grundstruktur der Website machen.            |               |
+| 2.A  |       | Mirhan Özden          |  Eingabefeld implementieren.            |               |
+|3.A||Mirhan Özden|Eingegebene Nachricht wird angezeigt.||
+|4.A||Mirhan Özden|Nachricht wird an Server geschickt.||
+|5.A||Mirhan Özden|Auf gesendete Nachricht wird sinnvoll geantwortet.||
+|6.A||Mirhan Özden|Die Antwort des Bots wird angezeigt.||
+|7.A||Mirhan Özden|Layout ist für verschiedene Geräten anders.||
+|8.A||Mirhan Özden|Fehlerhinweise bei Fehler in der Kommunikation.||
+|9.A||Mirhan Özden|Vorschläge für Fragen anzeigen lassen||
 
-Total: 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
