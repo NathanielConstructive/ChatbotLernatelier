@@ -53,37 +53,51 @@ Mein Chatbot ist mit HTML, CSS, JavaScript und Python programmiert worden. Ich h
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       | Mirhan Özden          |  Grundstruktur der Website machen.            |               |
-| 2.A  |       | Mirhan Özden          |  Eingabefeld implementieren.            |               |
-|3.A||Mirhan Özden|Eingegebene Nachricht wird angezeigt.||
-|4.A||Mirhan Özden|Nachricht wird an Server geschickt.||
-|5.A||Mirhan Özden|Auf gesendete Nachricht wird sinnvoll geantwortet.||
-|6.A||Mirhan Özden|Die Antwort des Bots wird angezeigt.||
-|7.A||Mirhan Özden|Layout ist für verschiedene Geräten anders.||
-|8.A||Mirhan Özden|Fehlerhinweise bei Fehler in der Kommunikation.||
-|9.A||Mirhan Özden|Vorschläge für Fragen anzeigen lassen||
+| 1.A  | 17.1      | Mirhan Özden          |  Grundstruktur der Website machen.            | 90 Minuten              |
+| 2.A  | 17.1      | Mirhan Özden          |  Eingabefeld implementieren.            |  45 Minuten             |
+|3.A|24.1|Mirhan Özden|Eingegebene Nachricht wird angezeigt.|90 Minuten|
+|4.A|24.1|Mirhan Özden|Nachricht wird an Server geschickt.|180 Minuten|
+|5.A|14.2|Mirhan Özden|Auf gesendete Nachricht wird sinnvoll geantwortet.|225|
+|6.A|14.2|Mirhan Özden|Die Antwort des Bots wird angezeigt.|90|
+|7.A|20.1|Mirhan Özden|Layout ist für verschiedene Geräten anders.|90|
+|8.A|20.1|Mirhan Özden|Fehlerhinweise bei Fehler in der Kommunikation.|90|
+|9.A|28.1|Mirhan Özden|Vorschläge für Fragen anzeigen lassen|135|
 
 
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Ich habe mich dazu entschieden, eine Website zu machen, wo man einen Chat mit einem Bot führen kann. Man kann in einem Eingabefeld Fragen schreiben und senden, welche direkt über dem Feld angezeigt und beantwortet werden. Die KI kann Sachen wie Wetter anzeigen und Witze erzählen. Dazu kann es zu anderen Standartfragen antworten. Wenn man nichts gerade im Kopf hat, werden Vorschläge angezeigt. Zudem ist das Layout dynamisch, spricht, es ändert sich je nach Gerät.ö
 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  | 17.1  | Mirhan Özden | 90 Minuten | 110 Minuten |
+| 2.A  | 17.1  | Mirhan Özden | 45 Minuten | 65 Minuten |
+| 3.A  | 24.1  | Mirhan Özden | 90 Minuten | 110 Minuten |
+| 4.A  | 24.1  | Mirhan Özden | 180 Minuten | 200 Minuten |
+| 5.A  | 28.1  | Mirhan Özden | 225 Minuten | 275 Minuten |
+| 6.A  | 14.2  | Mirhan Özden | 90 Minuten | 110 Minuten |
+| 7.A  | 20.1  | Mirhan Özden | 90 Minuten | 110 Minuten |
+| 8.A  | 28.1  | Mirhan Özden | 90 Minuten | 110 Minuten |
+| 9.A  | 28.1  | Mirhan Özden | 135 Minuten | 155 Minuten |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
-| TC-№ | Datum | Resultat | Tester |
-| ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| TC-№ | Datum  | Resultat  | Tester        |
+| ---- | ------ | --------- | ------------- |
+| 1.1  | 28.02 | erfolgreich | Mirhan Özden |
+| 1.2  | 28.02 | erfolgreich | Mirhan Özden |
+| 1.3  | 28.02 | erfolgreich | Mirhan Özden |
+| 1.4  | 28.02 | erfolgreich | Mirhan Özden |
+| 1.5  | 28.02 | erfolgreich | Mirhan Özden |
+| 1.6  | 28.02 | erfolgreich | Mirhan Özden |
+| 1.7  | 28.02 | erfolgreich | Mirhan Özden |
+| 1.8  | 28.02 | erfolgreich | Mirhan Özden |
+| 1.9  | 28.02 | erfolgreich | Mirhan Özden |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
+Jedes Test ist erfolgreich gewesen,
