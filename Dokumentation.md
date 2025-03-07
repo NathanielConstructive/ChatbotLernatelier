@@ -4,14 +4,12 @@ Mirhan Özden
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| 14.02      | 0.0.1   | Frontend ist implementiert, man kann dort Sachen eingeben und es ist eine ansichtliche Website. |
+|  28.02     | 1.0.0     |  Auf die Texte, die man eingibt wird eingegangen und eine KI antwortet dementsprechend                                                            |
 
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
-
 
 Mein Projekt beinhaltet ein Chatbot welches gewisse Fragen beantworten kann. 
 
